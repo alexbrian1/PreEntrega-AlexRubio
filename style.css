@@ -1,0 +1,14 @@
+.pixeles{
+    width: 500px;
+    height: 500px;
+
+}
+.contenedor-MarginTop{
+    margin-top: 200px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.img{
+    margin: 50px;
+    text-align: center;
+}
